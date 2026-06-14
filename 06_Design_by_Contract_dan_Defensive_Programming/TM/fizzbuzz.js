@@ -1,0 +1,26 @@
+function is_not_fizzbuzz(number) {
+  if (typeof number !== 'number' ||
+      !Number.isFinite(number) ||
+      !Number.isInteger(number)) {
+    throw new TypeError('Input harus bilangan bulat yang valid');
+  }
+
+  return !(number % 3 === 0 || number % 5 === 0);
+}
+
+console.log(is_not_fizzbuzz(1))        // true
+console.log(is_not_fizzbuzz(3))        // false
+console.log(is_not_fizzbuzz(5))        // false
+console.log(is_not_fizzbuzz(30))       // false
+console.log(is_not_fizzbuzz(7))        // true
+
+// Membungkus pengujian error agar tidak menghentikan program
+const testInputs = [null, NaN, Infinity];
+
+testInputs.forEach(input => {
+    try {
+        console.log(is_not_fizzbuzz(input));
+    } catch (error) {
+        console.log(`Tertangkap Error: ${error.message}`);
+    }
+});
