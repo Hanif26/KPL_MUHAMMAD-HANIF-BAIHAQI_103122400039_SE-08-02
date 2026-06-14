@@ -1,0 +1,9 @@
+{
+  "name": "tambah-penghitung",
+  "version": "1.0.0",
+  "description": "Program dan unit test fungsi tambahPenghitung",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
