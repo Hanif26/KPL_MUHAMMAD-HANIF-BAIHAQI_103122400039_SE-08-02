@@ -4,8 +4,10 @@
 
 ## Identitas Mahasiswa
 
-**Nama** : MUHAMMAD HANIF BAIHAQI  
-**NIM** : 103122400039
+**Nama** : MUHAMMAD HANIF BAIHAQI
+
+**NIM** : 103122400039 
+
 **Kelas** : SE-08-02  
 
 **Asisten Praktikum** :

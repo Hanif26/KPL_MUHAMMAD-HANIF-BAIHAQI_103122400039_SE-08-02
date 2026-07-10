@@ -1,11 +1,10 @@
 # Tugas Pendahuluan : Grammar-based Input Processing
 
-MUHAMMAD HANIF BAIHAQI
+**Nama** : MUHAMMAD HANIF BAIHAQI
 
-103122400039
+**NIM** : 103122400039 
 
-SE-08-02
-
+**Kelas** : SE-08-02  
 Dosen Pengampu : Yudha Islami Sulistya
 
 Asisten Praktikum : Ardiansyah Muhammad Pradana Farawowan, dan Hamid Khaeruman 
