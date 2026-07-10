@@ -2,8 +2,8 @@
 
 ## Identitas Mahasiswa
 
-**Nama** : Ananta Puti Maharani  
-**NIM** : 103122400040  
+**Nama** : MUHAMMAD HANIF BAIHAQI
+**NIM** : 103122400039
 **Kelas** : SE-08-02  
 
 ---
